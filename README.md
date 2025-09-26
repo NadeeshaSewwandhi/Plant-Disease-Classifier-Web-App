@@ -1,12 +1,12 @@
 # Plant-Disease-Classifier-Web-App
 
-Project Description:
+**Project Description:**
 
 The Plant Disease Classifier is an interactive web application that identifies diseases in plant leaves using a trained Convolutional Neural Network (CNN) model. The project helps farmers, researchers, and plant enthusiasts quickly detect plant diseases from images, enabling timely action to prevent crop damage.
 
 The CNN model is trained on the PlantVillage dataset, which contains thousands of images of healthy and diseased leaves from different plant species. Users can upload an image of a leaf, and the app preprocesses it, predicts the disease class, and displays the result in a user-friendly interface.
 
-Features:
+**Features:**
 1. Image Upload
 - Supports JPG, JPEG, and PNG formats.
 - Handles images of varying sizes and automatically resizes them to match the CNN model input.
