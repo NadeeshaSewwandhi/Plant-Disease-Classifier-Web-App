@@ -61,16 +61,18 @@ Installation Requirements:
 1. Python 3.8 or above
 2. TensorFlow
 3. Streamlit
+4. Pillow
+5. NumPy
 
 How to Run the App:
 
 1. Clone the repository and navigate to the folder.
 2. Run the Streamlit app using: streamlit run app.py
 3. The app will open in the browser. Upload an image of a plant leaf and click Classify to see the prediction.
-Example:
+4. Example:
 Uploaded Image: A leaf image
 Prediction: Apple___healthy
 
-Pillow
 
-NumPy
+
+
