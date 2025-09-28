@@ -12,7 +12,6 @@ The CNN model is trained on the PlantVillage dataset, which contains thousands o
 - Handles images of varying sizes and automatically resizes them to match the CNN model input.
 
 2. Image Preprocessing
-
 - Resizes images to 224×224 pixels.
 - Normalizes pixel values to the [0, 1] range.
 - Adds a batch dimension to make images compatible with the CNN model.
@@ -23,7 +22,6 @@ The CNN model is trained on the PlantVillage dataset, which contains thousands o
 - Maps numeric class indices to human-readable class names using a JSON file.
 
 4. Interactive Web Interface
-
 - Built with Streamlit for a simple and responsive interface.
 - Displays the uploaded image alongside the predicted class.
 - Allows users to click a Classify button for instant predictions.
